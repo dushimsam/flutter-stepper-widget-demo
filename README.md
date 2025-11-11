@@ -17,6 +17,15 @@ We use this widget to progress through a sequence of steps. Such as:
 - **Form Components**: Text fields in each step
 - **Validation**: Review and confirm data
 
+## Screenshot
+
+<img width="377" height="782" alt="Screenshot 2025-11-11 at 23 12 19" src="https://github.com/user-attachments/assets/971e3167-b89e-49f1-be7f-fcf214672fd7" />
+
+<img width="377" height="782" alt="Screenshot 2025-11-11 at 23 12 15" src="https://github.com/user-attachments/assets/8f7ac03a-f592-43b6-8251-fd44f2f98493" />
+
+<img width="377" height="782" alt="Screenshot 2025-11-11 at 23 12 02" src="https://github.com/user-attachments/assets/b5e4bf80-4b52-4892-8dae-2f86d942d1ee" />
+
+
 ## Run App Locally
 
 ### Prerequisites
